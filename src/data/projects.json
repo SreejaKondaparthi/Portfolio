@@ -1,0 +1,39 @@
+[
+  {
+    "id": "electrocart",
+    "title": "ElectroCart — E-commerce Microservices on GKE",
+    "summary": "Flask microservices with JWT, API Gateway, Docker/K8s, GKE autoscaling.",
+    "bullets": [
+      "Auth, inventory, payments, notifications microservices with REST APIs.",
+      "GKE deploys with HPA + rolling updates; images via Artifact Registry."
+    ],
+    "tags": ["fullstack","devops","software"],
+    "tech": ["Python","Flask","Docker","Kubernetes","GKE","PostgreSQL","JWT"],
+    "highlight": true
+  },
+  {
+    "id": "pcb-yolov5",
+    "title": "PCB Defect Detection — YOLOv5 (DeepPCB)",
+    "summary": "Detects 6 PCB defect types; evaluated with precision/recall, F1, mAP.",
+    "bullets": ["1,500+ image pairs; Roboflow pipeline; notebook documentation."],
+    "tags": ["software"],
+    "tech": ["Python","OpenCV","YOLOv5","Roboflow"],
+    "highlight": true
+  },
+  {
+    "id": "dma",
+    "title": "DMA Controller — SystemVerilog",
+    "summary": "Multi-mode DMA with interrupts, burst handling, arbitration.",
+    "bullets": ["Peripheral/memory interfaces; configurable transfer params."],
+    "tags": ["hardware","fpga"],
+    "tech": ["SystemVerilog"]
+  },
+  {
+    "id": "fifo",
+    "title": "Parameterizable FIFO — Design & Verification",
+    "summary": "Configurable depth/width; overflow/underflow handling; reusable TB.",
+    "bullets": ["Directed + random tests; Cadence/Xcelium sim."],
+    "tags": ["hardware","fpga"],
+    "tech": ["SystemVerilog","Cadence","Xcelium"]
+  }
+]

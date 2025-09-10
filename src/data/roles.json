@@ -1,0 +1,9 @@
+[
+  {"id":"software","label":"Software Engineer"},
+  {"id":"fullstack","label":"Full-Stack"},
+  {"id":"frontend","label":"Front-End"},
+  {"id":"devops","label":"DevOps"},
+  {"id":"hardware","label":"Hardware"},
+  {"id":"fpga","label":"FPGA"},
+  {"id":"network","label":"Network/Security"}
+]
